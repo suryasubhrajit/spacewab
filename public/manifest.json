@@ -1,0 +1,53 @@
+{
+    "name": "Cosmic Chakra",
+    "short_name": "Cosmic_Chakra",
+    "description": "An imaginary space tourism platform which provides a booking platform for rockets. Users can explore different planets, book rockets, and learn more about the exciting world of space travel.",
+    "theme_color": "#ffffff",
+    "background_color": "#121212",
+    "display": "browser",
+    "orientation": "landscape",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "./../src/assets/favicons/favicon.ico",
+            "sizes": "48x48",
+            "type": "x-icon/ico"
+        },
+        {
+            "src": "./../src/assets/favicons/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "./../src/assets/favicons/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "./../src/assets/favicons/favicon-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "./../src/assets/favicons/apple-touch/apple-touch-icon.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "./../src/assets/favicons/apple-touch/apple-touch-icon-57x57.png",
+            "sizes": "57x57",
+            "type": "image/png"
+        },
+        {
+            "src": "./../src/assets/favicons/apple-touch/apple-touch-icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "./../src/assets/favicons/apple-touch/apple-touch-icon-114x114.png",
+            "sizes": "114x114",
+            "type": "image/png"
+        }
+    ]
+}
