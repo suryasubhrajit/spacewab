@@ -8,6 +8,7 @@ const Home = () => {
             <h1>Home</h1>
             <h1 className="text-3xl font-bold underline">
                 santosh Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae natus eum voluptatem?
+                ghzgjagjdah
             </h1>
         </div>
     )
