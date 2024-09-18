@@ -7,7 +7,7 @@ const Home = () => {
             <Header />
             <h1>Home</h1>
             <h1 className="text-3xl font-bold underline">
-                Hello world!
+                santosh Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae natus eum voluptatem?
             </h1>
         </div>
     )
