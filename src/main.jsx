@@ -13,12 +13,13 @@ import Layout from './Layout';
 const router = createBrowserRouter(
   createRoutesFromElements(
     <>
-    
-      <Route path='/' element={<Layout />} />
-      <Route path='/home' element={<Home />} />
-      <Route path='/about' element={<About />} />
-      <Route path='/booking' element={<Booking />} />
-      <Route path='/explore' element={<Explore />} />
+
+      <Route path='/' element={<Layout />}>
+        <Route path='/' element={<Home />} />
+        <Route path='/about' element={<About />} />
+        <Route path='/booking' element={<Booking />} />
+        <Route path='/explore' element={<Explore />} />
+      </Route>
     </>
   )
 );
